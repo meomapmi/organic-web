@@ -1,0 +1,120 @@
+.homename{
+    font-family: 'kaushan script';
+    color: #00A542;
+    font-size:300%;
+    
+}
+.header{
+    display: flex;
+    justify-content:space-between;
+    align-items:center;
+    background-color: #ffffff;
+    padding: 10px;
+            
+}
+.icon_header img{
+    width: 40px;
+}
+
+.header ul{
+    list-style: none;
+    display: flex;
+    margin-right: 50px;
+    white-space: nowrap;
+    align-items:center;
+    font-size: 150%;
+}
+.icon_header li{
+    display: flex;
+    margin-right: 15%;
+}
+.header li{
+    margin-right: 30%;
+}
+.home{
+    background-image: url('https://mnlequydon.pgdhadong.edu.vn/uploads/mnlequydon/tin-tuc/2020_05/img_3427.jpg');
+    background-size: 100%;
+    padding: 150px;
+    background-position: bottom;
+    color: #ffffff;
+    text-align: center;
+    font-size: 150%;
+}
+.explore{
+    background-color: #00A542;
+    width: 150px;
+    height: 40px;
+    font-size: 120%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: auto;
+}
+.benefit img{
+    width: 300px;
+    height: 300px;
+}
+.benefit{
+    text-align: center;
+    font-size: 130%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.benefit div{
+    margin: auto;
+}
+.category{
+    background-color: #2d2777;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #ffffff;
+    margin-bottom: 100px;
+    flex-wrap: wrap;
+}
+.category div{
+    margin: auto;
+}
+.products img{
+    width: 300px;
+    height: 300px;
+}
+.products{
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 100px;
+    flex-wrap: wrap;
+    font-size: 130%;
+}
+.products div{
+    margin-bottom: 50px;
+    margin: auto;
+}
+.products p{
+    margin-top: 0%;
+}
+.blog{
+    background-image: url('https://thuthuatnhanh.com/wp-content/uploads/2022/05/Background-xanh-la-cay-nhat-dep.jpg');
+    background-position:top;
+}
+.blogin img{
+    width: 350px;
+    height: 300px;
+}
+.blogin{
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 120%;
+}
+.blogin div{
+    margin: auto;
+}
+.email{
+    text-align: center;
+}
